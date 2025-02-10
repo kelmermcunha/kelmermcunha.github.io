@@ -59,19 +59,21 @@ plugins:
 
 author:
   name   : Kelmer Martins-Cunha
-  avatar : "/assets/images/IMG_1624.jpeg"
+  avatar : "/assets/images/website_profile.png"
   bio    : "Master's student in fungal, algae, and plant biology working with fungal diversity knowledge gaps and habitat suitability models."
   links:
     - label: "Federal University of Santa Catarina"
       icon: "fas fa-fw fa-map-marker"
+      url: ""
     - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=SVd9z0QAAAAJ&hl=pt-BR"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kelmer-Martins-Da-Cunha/research"
     - label: "ORCID"
-      icon: "fa-brands fa-orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-0545-5966"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kelmermcunha"
