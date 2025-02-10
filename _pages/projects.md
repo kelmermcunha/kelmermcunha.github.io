@@ -14,7 +14,7 @@ title: "Projects"
 
 ### Fungi are among the most rich and essential groups on Earth.
 
-![nubicola!](/assets/images/past_projects_nubicola.png){: style='float: right'}
+![nubicola!](/assets/images/past_projects_nubicola.png){: style="float: left; margin-right: 1em;"}
 
 Yet, most of its diversity and ecological aspects are still unknown.
 
