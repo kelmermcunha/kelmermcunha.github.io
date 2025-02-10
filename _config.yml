@@ -58,12 +58,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : Kelmer Martins-Cunha"
+  avatar : "/assets/images/IMG_1624.jpg"
+  bio    : "Master's student in fungal, algae, and plant biology working with fungal diversity knowledge gaps and habitat suitability models."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-location"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
