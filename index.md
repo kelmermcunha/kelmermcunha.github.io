@@ -16,4 +16,4 @@ risk based on the IUCN criteria. I have participated in around 40 global fungal 
 [Global Fungal Red List Initiative](https://redlist.info/en/iucn/welcome), and a certificated trainer of the IUCN Red List Unit. Also, I am a member of the [IUCN SSC Brazil Fungal Specialist Group](https://www.iucnbrazfun.com/) and the [MIND.Funga research group](https://mindfunga.ufsc.br/?lang=en).
 
 
-![Neotropical fungal diversity!](/assets/images/bio-photo.jpg)
+![Neotropical fungal diversity!](/assets/images/about_footer.png)
