@@ -20,8 +20,6 @@ This holds especially for the Neotropical region. My research focuses on underst
 
 
 
-<img align="left" width="200" src="/assets/images/campo_site.png" />
+<img align="left" width="800" src="/assets/images/campo_site.png" />
 
-# Headline 
-
-Some text
+#### This holds especially for the Neotropical region. My research focuses on understanding which fungal species dwell in the soils of the Campos de Cima da Serra grasslands – an endangered formation that has been shaped by fire and grazing since the mid-Holocene. I also focus on understanding how these unknown fungal communities are structured locally.
