@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/website_profile.png"
   bio    : "Master's student in fungal, algae, and plant biology working with neotropical fungal diversity knowledge gaps and habitat suitability models."
   links:
-    - label: "Federal University of Santa Catarina"
+    - label: "Brazil"
       icon: "fas fa-fw fa-map-marker"
-      url: ""
+      url:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=SVd9z0QAAAAJ&hl=pt-BR"
