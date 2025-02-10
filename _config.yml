@@ -58,22 +58,24 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : Kelmer Martins-Cunha"
+  name   : Kelmer Martins-Cunha
   avatar : "/assets/images/IMG_1624.jpg"
   bio    : "Master's student in fungal, algae, and plant biology working with fungal diversity knowledge gaps and habitat suitability models."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-location"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Federal University of Santa Catarina"
+      icon: "fas fa-fw fa-map-marker"
+    - label: "ResearchGate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Kelmer-Martins-Da-Cunha?ev=hdr_xprf"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/kelmercunha"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/kelmartinscunha"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kelmermcunha"
 
 footer:
   links:
