@@ -13,7 +13,7 @@ classes: wide
 #### Fungi are among the most rich and essential groups on Earth.
 Yet, most of its diversity and ecological aspects are still unknown.
 
-<img align="left" width="675" src="/assets/images/campo_site.png" />
+<img align="left" width="660" src="/assets/images/campo_site.png" />
 
 
 
