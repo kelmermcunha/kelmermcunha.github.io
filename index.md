@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-
+## Hi!
 I am a master's student in plant, algae, and fungi biology at the Federal University of Santa Catarina (Florianópolis, Brazil), and I have been working in mycology for the past four years. My current project involves understanding spatial and taxonomical gaps in Neotropical *Fungi* digitally accessible knowledge and developing habitat suitability models to aid fungal conservation.
 
 My interests are all related to fungi, especially ecology, genomics, and conservation. Throughout my scientific formation, I
