@@ -59,35 +59,34 @@ plugins:
 
 author:
   name   : Kelmer Martins-Cunha
-  avatar : "/assets/images/IMG_1624.jpg"
+  avatar : "/assets/images/IMG_1624.jpeg"
   bio    : "Master's student in fungal, algae, and plant biology working with fungal diversity knowledge gaps and habitat suitability models."
   links:
     - label: "Federal University of Santa Catarina"
       icon: "fas fa-fw fa-map-marker"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=SVd9z0QAAAAJ&hl=pt-BR"
     - label: "ResearchGate"
-      icon: "fa-brands fa-researchgate"
-      url: "https://www.researchgate.net/profile/Kelmer-Martins-Da-Cunha?ev=hdr_xprf"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kelmercunha"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/kelmartinscunha"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Kelmer-Martins-Da-Cunha/research"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kelmermcunha"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/"
 
 defaults:
   # _posts
