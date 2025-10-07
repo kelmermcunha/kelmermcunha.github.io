@@ -8,13 +8,22 @@ classes: wide
 
 ### Leveraging digitally accessible data on fungi is essential to accelerate conservation. My research focuses on summarizing the available digitized knowledge on the Neotropical Funga, identifying data shortfalls, and guiding future research and monitoring efforts.
 
-<img src="/assets/images/neotrop_richness.png" alt="Neotropical fungal richness map" style="width:70%;">
-Species richness (log-transformed) along the Neotropical region in 0.5 by 0.5 degree cells. Digitally available data was compiled from GBIF and filtered for minimum-quality requirements.
+<figure style="text-align:center;">
+  <img src="/assets/images/neotrop_richness.png" alt="Neotropical fungal richness map" style="width:70%; display:block; margin:auto;">
+  <figcaption style="font-size:0.9em; color:gray; margin-top:0.5em;">
+    Species richness (log-transformed) across the Neotropical region in 0.5° × 0.5° grid cells.
+    Digitally available data were compiled from GBIF and filtered using minimum-quality standards.
+  </figcaption>
+</figure>
 
 ### Based on the available high-quality data, I develop species distribution models to support fungal conservation in the Neotropics.
 
-![](/assets/images/w-araucariae-model.png)
-Species distribution model for _W. araucariae_, a rare and threatened fungal species endemic to the _Araucaria_ forests in southern Brazil. Current climate (a), and two climate change scenarios, SSP245 (b), and SSP585 (c), were used to project the species probability of occurrence by 2075 (three generations) and understand how its potential distribution will change when faced with climate change.
+<figure style="text-align:center;">
+  <img src="/assets/images/w-araucariae-model.png" alt="Species distribution model for W. araucariae" style="width:70%; display:block; margin:auto;">
+  <figcaption style="font-size:0.9em; color:gray; margin-top:0.5em;">
+    Species distribution model for <i>W. araucariae</i>, a rare and threatened fungus endemic to the <i>Araucaria</i> forests of southern Brazil. Current climate conditions (a) and two future climate change scenarios — SSP245 (b) and SSP585 (c) — were used to project the species’ probability of occurrence by 2075 (three generations) and assess how its potential distribution may shift under climate change.
+  </figcaption>
+</figure>
 
 
 ![](/assets/images/ex-situ.png)
