@@ -16,10 +16,10 @@ classes: wide
   </figcaption>
 </figure>
 
-### Based on the available high-quality data, I develop species distribution models to support fungal conservation in the Neotropics.
+### Based on the available high-quality data, I also develop species distribution models to support fungal conservation in the Neotropics.
 
 <figure style="text-align:center;">
-  <img src="/assets/images/w-araucariae-model.png" alt="Species distribution model for W. araucariae" style="width:70%; display:block; margin:auto;">
+  <img src="/assets/images/w-araucariae-model.png" alt="Species distribution model for W. araucariae" style="width:100%; display:block; margin:auto;">
   <figcaption style="font-size:0.9em; color:gray; margin-top:0.5em;">
     Species distribution model for <i>W. araucariae</i>, a rare and threatened fungus endemic to the <i>Araucaria</i> forests of southern Brazil. Current climate conditions (a) and two future climate change scenarios — SSP245 (b) and SSP585 (c) — were used to project the species’ probability of occurrence by 2075 (three generations) and assess how its potential distribution may shift under climate change.
   </figcaption>
