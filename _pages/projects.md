@@ -4,6 +4,19 @@ title: "Projects"
 classes: wide
 ---
 
+### The Funga has been for long neglected in conservation efforts. Still, nearly all fungal species suffers with the same pressures and threats that animals and plants face.
+
+![](/assets/images/neotrop_richness.png)
+Species richness (log-transformed) along the Neotropical region in 0.5 by 0.5 degree cells. Digitally available data was compiled from GBIF and filtered for minimum-quality requirements.
+
+### My research focuses on summarizing available digital knowledge on the Neotropical Funga for evaluating its shortfalls and guide future research and monitoring efforts.
+
+### Based on the available data, I develop species distribution models to aid fungal conservation in the Neotropics.
+
+![](/assets/images/w-araucariae-model.png)
+Species distribution model for _W. araucariae_, a rare and threatened fungal species endemic to the _Araucaria_ forests in southern Brazil. Current climate (a), and two climate change scenarios, SSP245 (b), and SSP585 (c), were used to project the species probability of occurrence by 2075 (three generations) and understand how its potential distribution will change when faced with climate change.
+
+
 ![](/assets/images/ex-situ.png)
 <p style="text-align: center;">In addition to neglect, the Neotropical funga face several human-induced threats that are rapidly pushing species on the brink of extinction – at a much faster pace than we can discover and formally describe new species. To this concern, my research also focuses on assessing fungal species extinction risk based on the IUCN criteria, identifying species that are in urgent need of actions to avoid their disappearance. Following threatened species recognition, I seek to conserve the genetic diversity of these species in an ex-situ conservation strategy at CFAB MIND.Funga.</p>
 
