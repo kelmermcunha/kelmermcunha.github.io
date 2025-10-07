@@ -3,6 +3,12 @@ title: "Publications"
 permalink: /publications/
 classes: wide
 ---
+#### 2025
+
+Drechsler-Santos, E. R., **Martins-Cunha, K.**, Kossmann, T., Alves-Silva, G., Bittencourt, F., Cardoso, D., ... & Costa-Rezende, D. H. (2025). Brazil as a global player in fungal conservation: A rapid shift from neglect to action. Perspectives in Ecology and Conservation.
+
+García, G. J. Y., Badotti, F., Ferreira-Silva, A., Dutra, J. D. C. F., **Martins-Cunha, K.**, Gomes, R. F., ... & Góes-Neto, A. (2025). Microbial diversity of the remote Trindade Island, Brazil: a systematic review. PeerJ, 13, e19305.
+
 #### 2024
 
 Salvador-Montoya, C. A., Alves-Silva, G., Kossmann, T., Bittencourt, F., Werner, D., **Martins-Cunha, K.**, ... & Drechsler-Santos, E. R. (2024). A new and threatened species of Bondarzewia from the Brazilian cloud forests. Mycologia, 116(5), 775-791.
