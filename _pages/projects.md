@@ -4,19 +4,18 @@ title: "Projects"
 classes: wide
 ---
 
-### The Funga has long been neglected in conservation efforts. Yet, nearly all fungal species face the same pressures and threats that affect animals and plants.
-
-### Leveraging digitally accessible data on fungi is essential to accelerate conservation. My research focuses on summarizing the available digitized knowledge on the Neotropical Funga, identifying data shortfalls, and guiding future research and monitoring efforts.
+### The Funga has long been neglected in conservation efforts. Yet, fungi face the same pressures and threats that affect animals and plants.
+### Leveraging accessible data on fungi is essential to guide conservation. My research focuses on summarizing the available digitized knowledge on the Neotropical Funga, identifying data shortfalls, and guiding future research and monitoring efforts.
 
 <figure style="text-align:center;">
   <img src="/assets/images/neotrop_richness.png" alt="Neotropical fungal richness map" style="width:70%; display:block; margin:auto;">
   <figcaption style="font-size:0.9em; color:gray; margin-top:0.5em;">
-    Species richness (log-transformed) across the Neotropical region in 0.5° × 0.5° grid cells.
+    Observed species richness (log-transformed) across the Neotropical region in 50 km × 50 km grid cells.
     Digitally available data were compiled from GBIF and filtered using minimum-quality standards.
   </figcaption>
 </figure>
 
-### Based on the available high-quality data, I also develop species distribution models to support fungal conservation in the Neotropics.
+### Based on available data, I also develop species distribution models to support fungal conservation in the Neotropics.
 
 <figure style="text-align:center;">
   <img src="/assets/images/w-araucariae-model.png" alt="Species distribution model for W. araucariae" style="width:100%; display:block; margin:auto;">
@@ -32,12 +31,12 @@ classes: wide
 
 # Past projects
 ## South Brazilian Highland Grasslands soil fungal conservation and ecology
-#### Fungi are among the most rich and essential groups on Earth.
-Yet, most of its diversity and ecological aspects are still unknown.
+#### Fungi are among the most diverse groups on Earth.
+Yet, most of its diversity is still unknown.
 
 <img align="left" width="660" src="/assets/images/campo_site.png" />
 
 
 
 
-###### This holds especially for the Neotropical region. My undergraduate research focused on understanding which fungal species dwell in the soils of the Campos de Cima da Serra grasslands – an endangered formation that has been shaped by fire and grazing since the mid-Holocene. I also focused on understanding how these unknown fungal communities are structured locally.
+###### This holds especially for the Neotropical region. My undergraduate research focused on applying metagenomics to understand which fungal species dwell, and which functions they might perform, in the soils of the Campos de Cima da Serra grasslands – an endangered formation that has been shaped by fire and grazing since the mid-Holocene – and never explored for fungi. I also focused on understanding how these unknown fungal communities are structured locally.
