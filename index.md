@@ -10,14 +10,12 @@ classes: wide
 
 #### Hi!
 
-I am a master's student in plant, algae, and fungi biology at the Federal University of Santa Catarina (Florianópolis, Brazil), and I have been working in mycology for the past four years. My current project involves understanding data shortfalls spatial distribution and biases associated with Neotropical *Fungi* digitally accessible knowledge and developing habitat suitability models to aid fungal conservation.
+I am a master's student in plant, algae, and fungi biology at the Federal University of Santa Catarina (Florianópolis, Brazil), and I have been working in mycology for the past five years. My current research involves understanding data shortfalls and biases associated with Neotropical *Fungi* digitally accessible knowledge, and developing habitat suitability models to aid fungal conservation.
 
 My interests are all related to fungi, especially ecology, genomics, and conservation. Throughout my scientific formation, I
-became interested in bioinformatics, learning all essential computational tools to develop meaningful work in soil fungal
+became interested in bioinformatics, learning essential computational tools to develop meaningful work in soil fungal
 community ecology, metabarcoding, and metagenomics. As a scientist in formation and a young mycologist who understands the utter
-importance of the Funga, I naturally became interested and involved in fungal conservation, assessing fungal species extinction
-risk based on the IUCN criteria. I have participated in around 40 global fungal species assessments, being now a reviewer for the
-[Global Fungal Red List Initiative](https://redlist.info/en/iucn/welcome), and a certificated trainer of the IUCN Red List Unit. Also, I am a member of the [IUCN SSC Brazil Fungal Specialist Group](https://www.iucnbrazfun.com/) and the [MIND.Funga research group](https://mindfunga.ufsc.br/?lang=en).
+importance of the Funga, I naturally became interested and involved in fungal conservation, working on assessing fungal species extinction risk based on IUCN criteria. I have participated in around 40 global fungal species assessments, being now a reviewer for the [Global Fungal Red List Initiative](https://redlist.info/en/iucn/welcome), and a certificated trainer of the IUCN Red List Unit. Also, I am a member of the [IUCN SSC Brazil Fungal Specialist Group](https://www.iucnbrazfun.com/) and the [MIND.Funga research group](https://mindfunga.ufsc.br/?lang=en).
 
 
 ![Neotropical fungal diversity!](/assets/images/about_footer.png)
