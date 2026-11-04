@@ -10,6 +10,15 @@ classes: wide
 
 #### Hi!
 
+# This website is currently under construction. A new version will be available soon!
+
+## In the meantime, feel free to reach out to me at my [email](mailto:kelmer.martins@su.se).
+
+![Xanthoria!](/assets/images/xanthoria_footer.png)
+
+
+{% comment %}
+
 I am a master's student in plant, algae, and fungi biology at the Federal University of Santa Catarina (Florianópolis, Brazil), and I have been working in mycology for the past five years. My current research involves understanding data shortfalls and biases associated with Neotropical *Fungi* digitally accessible knowledge, and developing habitat suitability models to aid fungal conservation.
 
 My interests are all related to fungi, especially ecology, genomics, and conservation. Throughout my scientific formation, I
@@ -19,3 +28,5 @@ importance of the Funga, I naturally became interested and involved in fungal co
 
 
 ![Neotropical fungal diversity!](/assets/images/about_footer.png)
+
+{% endcoment %}
