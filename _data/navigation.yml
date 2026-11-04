@@ -1,7 +1,11 @@
-main:
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /CV/
+# Original navigation temporarily disabled for updates.
+#
+#main:
+#  - title: "Projects"
+#    url: /projects/
+#  - title: "Publications"
+#    url: /publications/
+#  - title: "CV"
+#    url: /CV/
+
+main: []
