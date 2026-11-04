@@ -7,9 +7,6 @@ author_profile: true
 classes: wide
 ---
 
-
-# Hi!
-
 ## This website is currently under construction. A new version will be available soon!
 ### In the meantime, feel free to reach out to me at my [email](mailto:kelmer.martins@su.se).
 
