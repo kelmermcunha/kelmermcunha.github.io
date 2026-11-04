@@ -5,8 +5,10 @@
 layout: single
 author_profile: true
 classes: wide
+title: ""
 ---
 
+# Hi!
 ## This website is currently under construction. A new version will be available soon!
 ### In the meantime, feel free to reach out to me at my [email](mailto:kelmer.martins@su.se).
 
