@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : Kelmer Martins-Cunha
-  avatar : "/assets/images/webprofile.png"
+  avatar : "/assets/images/webprofile.jpeg"
   bio    : "PhD Student @ Stockholm University and SciLifeLab working on genomics of Xanthoria mycobionts."
   links:
     - label: "Brazil"
