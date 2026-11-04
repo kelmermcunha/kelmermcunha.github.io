@@ -28,4 +28,4 @@ importance of the Funga, I naturally became interested and involved in fungal co
 
 ![Neotropical fungal diversity!](/assets/images/about_footer.png)
 
-{% endcoment %}
+{% endcomment %}
