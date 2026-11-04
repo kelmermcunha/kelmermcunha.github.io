@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kelmer Martins-Cunha
-email: kelmermartinscunha@gmail.com
+email: kelmer.martins@su.se
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -59,15 +59,15 @@ plugins:
 
 author:
   name   : Kelmer Martins-Cunha
-  avatar : "/assets/images/website_profile.png"
-  bio    : "Master's student working with neotropical fungal diversity knowledge gaps and habitat suitability models."
+  avatar : "/assets/images/webprofile.png"
+  bio    : "PhD Student @ Stockholm University and SciLifeLab working on genomics of Xanthoria mycobionts."
   links:
     - label: "Brazil"
       icon: "fas fa-fw fa-map-marker"
       url:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.com/citations?user=SVd9z0QAAAAJ&hl=pt-BR"
+      url: "https://scholar.google.com/citations?user=SVd9z0QAAAAJ&hl"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Kelmer-Martins-Da-Cunha/research"
